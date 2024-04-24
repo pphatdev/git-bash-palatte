@@ -1,12 +1,9 @@
 # git-promp.sh
 
-## How to use 
+## How to use
 
-go to 
-```
-C:\Program Files\Git\etc\profile.d
-```
-Then open  `git-prompt.sh` as Adminstrator and replace [/promp/(palatte)](https://github.com/pphatdev/git-palatte/blob/main/promp/.git-promp.sh)
+go to `C:\Program Files\Git\etc\profile.d`
+Then open `git-prompt.sh` as Adminstrator and replace [/palatte/[.git-prompt.sh]](https://github.com/pphatdev/git-palatte/blob/main/promp/.git-promp.sh)
 
 
 ## Palatte
