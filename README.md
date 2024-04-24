@@ -1,4 +1,4 @@
-# git-promp.sh
+# git-bash-palatte
 
 ## How to use
 
